@@ -144,6 +144,7 @@
       * [إعدادات إدارة علاقات العملاء - CRM Settings](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/crm-idarh-alaqat-alamlaa/iadadat-crm-settings.md)
       * [العملاء المحتملون - Leads](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/crm-idarh-alaqat-alamlaa/alamlaa-almhtmlwn-leads.md)
       * [فرص البيع - Opportunities](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/crm-idarh-alaqat-alamlaa/frs-albya-opportunities.md)
+      * [الحملات - Campaigns](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/crm-idarh-alaqat-alamlaa/alhmlat-campaigns.md)
   * [المشتريات-Purchasing](albramj/logistics-alkhdmat-allwjystyh/almshtryat-purchasing/README.md)
     * [الموردين-Suppliers](albramj/logistics-alkhdmat-allwjystyh/almshtryat-purchasing/almwrdyn-suppliers.md)
     * [طلب شراء](albramj/logistics-alkhdmat-allwjystyh/almshtryat-purchasing/tlb-shraa.md)
