@@ -145,6 +145,7 @@
       * [العملاء المحتملون - Leads](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/crm-idarh-alaqat-alamlaa/alamlaa-almhtmlwn-leads.md)
       * [فرص البيع - Opportunities](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/crm-idarh-alaqat-alamlaa/frs-albya-opportunities.md)
       * [الحملات - Campaigns](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/crm-idarh-alaqat-alamlaa/alhmlat-campaigns.md)
+      * [الأنشطة والخط الزمني - Activities & Timeline](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/crm-idarh-alaqat-alamlaa/alanshth-w-alkhtt-alzmny-activities-timeline.md)
   * [المشتريات-Purchasing](albramj/logistics-alkhdmat-allwjystyh/almshtryat-purchasing/README.md)
     * [الموردين-Suppliers](albramj/logistics-alkhdmat-allwjystyh/almshtryat-purchasing/almwrdyn-suppliers.md)
     * [طلب شراء](albramj/logistics-alkhdmat-allwjystyh/almshtryat-purchasing/tlb-shraa.md)
