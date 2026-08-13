@@ -140,6 +140,7 @@
   * [المبيعات- Sales](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/README.md)
     * [مرتجعات المبيعات-Sales Return](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/mrtjaat-almbyaat-sales-return.md)
     * [تسعير الاصناف-Sales Conditions](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/tsayr-alasnaf-sales-conditions.md)
+    * [إدارة علاقات العملاء - CRM](albramj/logistics-alkhdmat-allwjystyh/almbyaat-sales/crm-idarh-alaqat-alamlaa/README.md)
   * [المشتريات-Purchasing](albramj/logistics-alkhdmat-allwjystyh/almshtryat-purchasing/README.md)
     * [الموردين-Suppliers](albramj/logistics-alkhdmat-allwjystyh/almshtryat-purchasing/almwrdyn-suppliers.md)
     * [طلب شراء](albramj/logistics-alkhdmat-allwjystyh/almshtryat-purchasing/tlb-shraa.md)
@@ -436,3 +437,14 @@
   * [طباعة فاتورة المطبخ](albramj/i-cafe/tbaah-fatwrh-almtbkh.md)
 * [الموفقات](albramj/almwfqat/README.md)
   * [طلب الموافقة](albramj/almwfqat/tlb-almwafqh.md)
+
+## إدارة الاشتراكات
+
+* [نظرة عامة](idarh-alashtrakat/README.md)
+* [نشاط الشركات](idarh-alashtrakat/nshat-alshrkat.md)
+* [خطط الاشتراك](idarh-alashtrakat/khtt-alashtrak.md)
+* [أسعار الخطط](idarh-alashtrakat/asaar-alkhtt.md)
+* [تغيير خطة الشركة](idarh-alashtrakat/tghyyr-khth-alshrkh.md)
+* [تصحيح نشاط الشركة](idarh-alashtrakat/tshyh-nshat-alshrkh.md)
+* [الحدود والاستهلاك](idarh-alashtrakat/alhdwd-walastihlak.md)
+* [التجارب والحذف التلقائي](idarh-alashtrakat/altjarb-walhthf-altlqaey.md)
